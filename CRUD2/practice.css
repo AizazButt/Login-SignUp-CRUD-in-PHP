@@ -1,0 +1,23 @@
+body{
+    background: #ebece0;
+}
+.input{
+    border-radius: 18px;
+    border-color: bisque;
+}
+.input:hover{
+    font-size: large;
+    background-color: rgb(255, 252, 210);
+}
+.err{
+    color: red; 
+    font-size: small;
+    padding-left: 15px;
+}
+.anchor{
+    text-decoration: none;
+    color: black;
+}
+.tableA {
+    text-decoration: none;
+}
